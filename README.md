@@ -1,8 +1,3 @@
-# TP-S6-P13-Web-design-Mai-2022
-lien: https://s6-larren.alwaysdata.net/
+#Web-design-Mai-2022
+lien: https://s6-larren.alwaysdata.net/ (expired)
 
-BO 
-email larren@gmail.com
-pass   larren
-
-ETU 1287
